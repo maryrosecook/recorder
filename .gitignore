@@ -1,0 +1,4 @@
+*.dat
+.DS_Store
+data
+model/data

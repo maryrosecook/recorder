@@ -1,0 +1,21 @@
+Recorder
+Record events by calling urls
+
+By: maryrosecook
+http://maryrosecook.com
+maryrosecook@maryrosecook.com
+
+---
+
+Initial setup
+
+	- Install the gems you need
+	  - In your console
+	    sudo gem install sinatra shotgun haml do_mysql
+
+Run the app
+
+	- Run the app
+		- In your console
+			cd root/of/recorder
+			shotgun -p 4567 application.rb
